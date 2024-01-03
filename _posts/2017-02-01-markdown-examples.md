@@ -3,7 +3,10 @@ title:  "Markdown examples"
 layout: post
 ---
 
-aaaa
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
+
 
 ## Heading Two (h2)
 
@@ -20,11 +23,15 @@ aaaa
 
 ### Single line
 
-> b
+> My mom always said life was like a box of chocolates. You never know what you're gonna get.
+
 ### Multiline
 
-> c
-> d
+> What do you get when you cross an insomniac, an unwilling agnostic and a dyslexic?
+>
+> You get someone who stays up all night torturing himself mentally over the question of whether or not there's a dog.
+>
+> – _Hal Incandenza_
 
 ## Horizontal Rule
 
